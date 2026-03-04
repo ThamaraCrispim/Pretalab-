@@ -1,4 +1,4 @@
-# 📊 Formação em Análise de Dados – PretaLab (Ciclo 15)
+# Formação em Análise de Dados – PretaLab (Ciclo 15)
 
 Este repositório reúne meus estudos, exercícios e projetos desenvolvidos durante a formação em Análise de Dados promovida pela PretaLab.
 
@@ -6,7 +6,7 @@ A PretaLab é uma iniciativa que capacita mulheres negras e indígenas para atua
 
 ---
 
-## 🎯 Objetivo da Formação
+##  Objetivo da Formação
 
 Desenvolver competências técnicas e analíticas essenciais para atuação como Analista de Dados, incluindo:
 
@@ -19,7 +19,7 @@ Desenvolver competências técnicas e analíticas essenciais para atuação como
 
 ---
 
-## 🧠 Competências Desenvolvidas
+## Competências Desenvolvidas
 
 ### 🐍 Python para Análise de Dados
 - Leitura e escrita de arquivos (CSV, JSON, TXT)
